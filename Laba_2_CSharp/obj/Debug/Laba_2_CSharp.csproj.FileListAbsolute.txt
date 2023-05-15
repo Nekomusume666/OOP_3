@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\bin\Debug\Laba_2_CSharp.exe.config
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\bin\Debug\Laba_2_CSharp.exe
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\bin\Debug\Laba_2_CSharp.pdb
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\obj\Debug\Laba_2_CSharp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\obj\Debug\Laba_2_CSharp.Form1.resources
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\obj\Debug\Laba_2_CSharp.Properties.Resources.resources
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\obj\Debug\Laba_2_CSharp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\obj\Debug\Laba_2_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\obj\Debug\Laba_2_CSharp.exe
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\obj\Debug\Laba_2_CSharp.pdb
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\obj\Debug\Laba_2_CSharp.Form2.resources
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\obj\Debug\Laba_2_CSharp.Form3.resources
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\obj\Debug\Laba_2_CSharp.Form4.resources
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\obj\Debug\Laba_2_CSharp.Form5.resources
+C:\Users\Admin\source\repos\Laba_2_CSharp\Laba_2_CSharp\obj\Debug\Laba_2_CSharp.csproj.SuggestedBindingRedirects.cache
